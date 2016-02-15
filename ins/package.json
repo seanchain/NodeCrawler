@@ -1,0 +1,14 @@
+{
+  "name": "ins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sean Chain",
+  "license": "MIT",
+  "devDependencies": {
+    "sync-request": "^3.0.0"
+  }
+}
